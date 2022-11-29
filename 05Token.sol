@@ -21,3 +21,10 @@ contract Token {
     return balances[_owner];
   }
 }
+
+/*
+Via remix:
+Copy code and open it at the instance address
+Use the transfer() function to send the same contract Your balance +1.
+Enjoy. 
+*/

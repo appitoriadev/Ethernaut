@@ -16,3 +16,6 @@ contract Vault {
     }
   }
 }
+/*
+https://github.com/Macmod/ethernaut-writeups/blob/master/10-vault.md
+*/

